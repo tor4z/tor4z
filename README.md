@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![tor4z's GitHub stats](https://github-readme-stats.vercel.app/api?username=tor4z&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![tor4z's GitHub stats](https://github-readme-stats.vercel.app/api?username=tor4z&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tor4z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
